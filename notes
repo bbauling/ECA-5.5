@@ -30,4 +30,19 @@ Cluster example
 
 joining multiple nodes in a cluster allows for pooling of resources
 storage is presented as a single pool via the controller vm (cvm)
-Covers data path from start to finish, 
+Covers data path from start to finish and covers rdma and ahv turbo  (we should prob have a nustuff or demo for this)
+
+Software only
+-------------
+
+covers prism pro features, xfit vm write sizing capacity runway, multiple cluster upgrades etc
+covers calm elevator speech
+Goes over calm value, describes calm and benefits
+goes over acropolys features 
+Covers write acknowledgements with rf2 and rf3 and metro, covers metro can be rf2 or rf3 regardless of src
+shows all prism licenses 
+
+Storage Pool
+------------
+covers the different storage pieces, does a great job going over lacking storage vmotion and how to battle that.
+
