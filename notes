@@ -134,4 +134,6 @@ Goes through differences of ncli and acli
 goes over basic commands how to navigate, things you can only do in ncli (dr resync, uuid for vms, etc)
 goes through benefit of running ncli local vs not in the cvm, for offload of resources
 examples for acli 
+*****Insert Here missed while were on slide*********
+
 
