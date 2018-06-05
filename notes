@@ -122,5 +122,16 @@ b. Command Virtual Machine
 c. Controller Virtual Machine
 d. Collaboration Virtual Machine
 
+now prism / prism central overview 
 
+break down of prism each section very good break down ill see if i can get the slides would be good possibly for nht
+goes into each section and subsection for relevant details
+
+NCLI and ACLI
+-------------
+
+Goes through differences of ncli and acli 
+goes over basic commands how to navigate, things you can only do in ncli (dr resync, uuid for vms, etc)
+goes through benefit of running ncli local vs not in the cvm, for offload of resources
+examples for acli 
 
