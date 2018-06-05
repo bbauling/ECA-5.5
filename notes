@@ -66,3 +66,61 @@ Xtract for migration
 
 Migrations with one click simplicity near zero applicaiton or vm service outage enables migration testing included with all licenses 
 
+Test questions lab
+
+1) Which two (2) product families comprise the Enterprise Cloud Platform?
+a. Kryptonite
+b. Acropolis
+c. Prism
+d. Asteroid
+
+2) What are the three foundational components of Acropolis?
+a. Distributed Storage Fabric (DSF)
+b. App Mobility Fabric
+c. Web Console Runway
+d. Acropolis Hypervisor
+
+3) What is the difference between Prism Element and Prism Central?
+a. Prism Element = cluster based; Prism Central = Across clusters
+b. Prism Element = node based; Prism Central = Across nodes in same block
+c. Prism Element = block based; Prism Central = Across physical blocks
+d. Prism Element = rack based; Prism Central = Across racks
+
+4) Which of the following two (2) statements are true?
+a. Mixing nodes with different processor architectures in the same cluster is supported
+b. All-SSD nodes can be mixed with hybrid SSD and HDD nodes in the same cluster
+c. Mixing Dell, Lenovo, and Nutanix nodes in the same cluster is supported
+d. Encrypted drives (SED) cannot be mixed with unencrypted (non-SED) drives in the same node
+
+5) What software runs within each node and performs specific tasks during cluster operation? Choose three (3).
+a. Curator
+b. Zookeeper
+c. Stargate
+d. Quantum
+
+6) What three (3) types of AOS licenses are available?
+a. Pro
+b. Lite
+c. Ultimate
+d. Starter
+
+7) Which hypervisors and protocols are supported by Nutanix?
+a. ESXi, Oracle VM, and Hyper-V
+b. AHV, Parallels Desktop, and ESXi
+c. Oracle VM, ESXi, and AHV
+d. AHV, ESXi, and Parallels Desktop
+
+8) What protocols are supported by Nutanix?
+a. iSCSI, NFS, and Fibre Channel
+b. SMB2, SMB3, and NFS
+c. NFS, iSCSI, and IMAP
+d. iSCSI, NFS, and SMB3
+
+9) What does the acronym “CVM” stand for?
+a. Communications Virtual Machine
+b. Command Virtual Machine
+c. Controller Virtual Machine
+d. Collaboration Virtual Machine
+
+
+
