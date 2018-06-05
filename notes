@@ -1,0 +1,33 @@
+ECA 5.5 Notes
+
+Day 1
++++++
+Super converged vs hyper converged, diff is network
+what is the cloud, topics to cover infra services - file block computer
+integrated data services - dp / ha
+platform services db big data analytics
+
+What is hyper converged
+-----------------------
+
+x86 based storage and compute resources
+software based sys intel
+vit
+management
+api based automation and rich analytics
+..... into a single scalable solution
+
+Covered dell ibm lenovo briefly showing pictures
+
+Discuss diff between node / block / cluster
+Covered SED's does a good job of covering this, goes over why sed's differences between, covers compliance, how disk io controller on drive
+covers the encryption so no overhead
+
+****Find encryption overhead for software****  This was unknown
+
+Cluster example
+---------------
+
+joining multiple nodes in a cluster allows for pooling of resources
+storage is presented as a single pool via the controller vm (cvm)
+Covers data path from start to finish, 
