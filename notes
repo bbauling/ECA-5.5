@@ -46,3 +46,17 @@ Storage Pool
 ------------
 covers the different storage pieces, does a great job going over lacking storage vmotion and how to battle that.
 
+AHV
+---
+
+hardened enterprise grade hypervisor based on proven open source tech
+hypvervisor features - vm networking host profiles rolling upgrades sotrage conf host maint mode
+vm features - intelligent placement live migration converged dr / backup image management vmoperations analytics data path optimization 
+
+app mobility fabric
+
+ha  cross hypervisor dr one click hypervisor conversion
+
+covers support portal and what to find, ref architecture best practices kbs etc
+
+
