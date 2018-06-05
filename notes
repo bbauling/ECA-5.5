@@ -59,4 +59,10 @@ ha  cross hypervisor dr one click hypervisor conversion
 
 covers support portal and what to find, ref architecture best practices kbs etc
 
+Covers Near sync and caveats, uses this as an example of know the feature and when you are proposing it.
+
+Xtract for migration
+--------------------
+
+Migrations with one click simplicity near zero applicaiton or vm service outage enables migration testing included with all licenses 
 
